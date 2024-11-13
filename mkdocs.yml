@@ -1,4 +1,4 @@
-site_name: teste
+site_name: Portfolio - Amanda
 site_url: 
 theme:
     name: material
@@ -64,8 +64,10 @@ theme:
           accent: lime
 
 nav:
-    - Introduction:
+    - Conheça-me:
         - Welcome: index.md
+    - Curriculo:
+        - Objetivo: curriculo/objetivo.md
 
 markdown_extensions:
     - md_in_html
@@ -81,5 +83,5 @@ markdown_extensions:
         permalink: "#"
 
 # Configuration
-repo_url: 
-repo_name: 
+repo_url: https://github.com/manddaa/AmandaPortfolio
+repo_name: Amanda Portfolio
